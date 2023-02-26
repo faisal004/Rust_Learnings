@@ -1,0 +1,1 @@
+C:\Users\faisa\OneDrive\Desktop\Rust_Learnings\Rust_Learning_2.0\cargo\my-project\target\debug\my-project.exe: C:\Users\faisa\OneDrive\Desktop\Rust_Learnings\Rust_Learning_2.0\cargo\my-project\src\main.rs
